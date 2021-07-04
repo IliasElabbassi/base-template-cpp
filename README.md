@@ -1,2 +1,2 @@
 # base-template-cpp
-c++ competitiv programing base template
+c++ competitive programming base template
